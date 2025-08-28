@@ -1,3 +1,8 @@
+# Git tutorial google slides here 👇:
+https://docs.google.com/presentation/d/1imFmnP3nbAFk30GHz8ooFJBlR7aB-_F166-TGcpOoFk/edit?usp=sharing
+
+<img width="1127" height="634" alt="image" src="https://github.com/user-attachments/assets/71e2ada9-0278-4f6c-8f37-bc400e5b060f" />
+
 # Git Demo - Advanced Git Commands
 
 This repository demonstrates advanced Git commands and version control concepts using custom aliases.
